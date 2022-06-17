@@ -1,5 +1,5 @@
 cd ~
 mkdir Programming
 cd Programming
-git clone https://github.com/fantasia-wizard/sturdy-octo-lamp
+git clone https://github.com/fantasia-wizard/fantasia-wizard.github.io
 git clone https://github.com/fantasia-wizard/platformer
