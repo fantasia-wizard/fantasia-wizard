@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @fantasia-wizard
 - 👀 I’m interested in coding and fighting the holder of the 'fantasia' account for the username.
 - 🌱 I’m currently learning godot
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 fantasia-wizard/fantasia-wizard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
